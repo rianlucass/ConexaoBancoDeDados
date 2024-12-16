@@ -11,14 +11,14 @@ A classe `ConexaoBanco` é responsável por estabelecer a conexão com o banco d
 <h3>Principais classes e métodos:</h3>
   - Método `conectar()`: Retorna um objeto `Connection` para ser usado nas operações de manipulação de dados.
 
-- **Inserir Dados:**
+- **Cllasse Insert - Inserir Dados:**
   - Implementado com o comando `INSERT INTO` e o uso de `PreparedStatement` para evitar vulnerabilidades como SQL Injection.
   
-- **Excluir Dados:**
+- **Classe delete - Excluir Dados:**
   - Implementado com o comando `DELETE FROM`, permitindo excluir registros com base em condições específicas, como o ID.
 
-- **Consultar Dados:**
+- **Classe Consult - Consultar Dados:**
   - Implementado com o comando `SELECT`, possibilitando recuperar e listar registros do banco.
 
-<h2>3. Classe de Teste</h2>
+<h2>2. Classe de Teste</h2>
 A classe teste realiza a execução dos métodos para testar a interação com o banco de dados, simulando cenários como cadastro, exclusão e consulta.

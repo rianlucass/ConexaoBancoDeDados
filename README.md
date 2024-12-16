@@ -1,5 +1,5 @@
-<h1>Sistema de Gerenciamento com Conexão ao Banco de Dados Simples desenvolvido com **Java** utilizando a biblioteca **JDBC** para realizar a conexão e manipulação de dados em um banco de dados MySQL. 
-O objetivo do sistema é demonstrar a interação com o banco de dados através de operações básicas como **inserir**, **excluir** e **consultar** registros.</h1>
+<h2>Sistema de Gerenciamento com Conexão ao Banco de Dados Simples desenvolvido com **Java** utilizando a biblioteca **JDBC** para realizar a conexão e manipulação de dados em um banco de dados MySQL. 
+O objetivo do sistema é demonstrar a interação com o banco de dados através de operações básicas como **inserir**, **excluir** e **consultar** registros.</h2>
 
 Foi ultilizado **JDBC (Java Database Connectivity)**: Para conectar e executar operações no banco de dados.
 
